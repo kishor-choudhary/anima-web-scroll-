@@ -1,0 +1,1 @@
+this multiple image is to be put in middle frame and plays as we scroll
