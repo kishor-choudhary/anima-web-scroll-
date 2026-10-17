@@ -1,0 +1,13 @@
+{
+  "name": "webcopytest",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Local copy of the Triptych Interactive homepage (a Next.js production build) with a zero-dependency static web server.",
+  "scripts": {
+    "start": "node server.js --open",
+    "serve": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
